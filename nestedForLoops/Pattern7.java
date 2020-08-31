@@ -1,4 +1,4 @@
-package NestedForLoops;
+package nestedForLoops;
 import java.util.Scanner;
 
 public class Pattern7 {
